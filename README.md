@@ -1,2 +1,2 @@
 # python-lugat
-Lugat bilan isolas
+Lugat bilan ishlash
